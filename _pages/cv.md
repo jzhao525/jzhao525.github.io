@@ -11,23 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. at Shandong Normal University, 2013-2017
+* M.S. at Shandong Normal University & Western University, 2017-2020
+* Ph.D at Western University 2022-
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Interests
 ======
 * Skill 1
 * Skill 2
@@ -42,18 +30,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Academic Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Reviewer
+  * IEEE Transactions on Big Data
+  * Journal of Biomedical and Health Informatics
+  * The 23th & 24th MICCAI (Medical Image Computing and Computer Assisted Intervention) Conference Academic Activities
+
+Awards and Honors
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2020   PhD student Scholarship, China Scholarship Council
+* 2020   Excellent Graduate Student, Shandong Normal University
+* 2019   Graduate student studies scholarship, Shandong Normal University
+* 2018   Joint Master Student Scholarship, China Scholarship Council
+* 2017   Graduate student studies scholarship, Shandong Normal University
+
+
+
