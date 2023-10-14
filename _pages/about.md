@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👏 Hello there, I'm Jianfeng Zhao"
+title: "👏 Hello there, I'm Jianfeng Zhao!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
